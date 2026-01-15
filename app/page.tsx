@@ -18,9 +18,9 @@ export default function Home() {
         <ManifestoSection />
         <FeaturesSection />
         <InsightsSection />
-        <ShowcaseSection />
         <CarouselSection />
         <PricingSection />
+        <ShowcaseSection />
         <FooterSection />
       </main>
     </LenisProvider>
