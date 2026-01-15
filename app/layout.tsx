@@ -14,9 +14,9 @@ const _instrumentSerif = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "Opus – The Editorial Portfolio Platform",
+  title: "Alba Soria Portfolio",
   description:
-    "A website builder designed for writers, photographers, and architects who need a narrative-driven portfolio.",
+    "A website to display Alba Soria's portfolio.",
   generator: "v0.app",
   icons: {
     icon: [
